@@ -8,7 +8,7 @@ class PageController extends Controller
 {
     //
     public function index(){
-        return 'Selamat Datang';
+        return 'Selamat Datang. Sekarang anda berada di halaman HOME Website';
     }
     public function about(){
         return 'Alvina Marcy Syakirah Permata/2141720017';
