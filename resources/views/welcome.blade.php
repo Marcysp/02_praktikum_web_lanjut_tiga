@@ -17,7 +17,7 @@
     </head>
     <body class="antialiased">
         <div class="relative sm:flex sm:justify-center sm:items-center min-h-screen bg-dots-darker bg-center bg-gray-100 dark:bg-dots-lighter dark:bg-gray-900 selection:bg-red-500 selection:text-white">
-            <div class="ml-4 txt-lg leading-7 font-semibold"><h1 class="txt-gray-900 dark:text-white">Alvina Marcy Syakirah Permata</h1></div>
+            <div class="ml-4 txt-lg leading-7 font-semibold"><h1 class="txt-gray-900 dark:text-white">Alvina Marcy Syakirah Permata percobaan laravel</h1></div>
         </div>
     </body>
 </html>
